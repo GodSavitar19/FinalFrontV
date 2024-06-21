@@ -11,7 +11,7 @@ export enum NombresSimpsons {
   LISA = "LISA",
   MAGGIE = "MAGGIE",
   MARGE = "MARGE",
-  HOMER = "HOMERO",
+  HOMER = "HOMER",
 }
 
 export const INFO_SIMPSONS = {
