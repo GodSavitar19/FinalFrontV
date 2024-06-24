@@ -4,6 +4,6 @@ export enum STATE_FETCH {
   ERROR,
 }
 
-export const MESSAGE_LOADING = "Cargando..";
-export const NAME_INVALID = "Por Favor Ingrese El Nombre De Un Personaje ";
-export const NOT_FOUND = "No Se Encontro Una Frase";
+export const MESSAGE_LOADING = "LOADING...";
+export const NAME_INVALID = "Por favor ingrese un nombre válido";
+export const NOT_FOUND = "No se encontro ninguna cita";
